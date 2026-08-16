@@ -1,43 +1,46 @@
-# 👋 Olá! Eu sou a Yohanny Souza
+# 👋 Hi, I'm Yohanny Souza Silva
 
-Sou estudante e desenvolvedora, apaixonada por tecnologia, inteligência artificial e educação digital.
+Biomedical Scientist | Ph.D. Candidate (UFG) | Clinical Research, Health Data & AI
 
-🎯 Aqui você encontra o meu **portfólio de projetos** com códigos, estudos e aplicações práticas que refletem minha evolução técnica.
-
----
-
-## 🚀 Tecnologias e habilidades
-
-Essas são algumas das ferramentas que eu utilizo com frequência:
-
-- 📊 R
-- 🤖 Aplicações de Inteligência Artificial no ensino  
-- 💻 Desenvolvimento de projetos acadêmicos e computacionais  
-- 📚 Documentação técnica e organização de repositórios
+I'm currently transitioning into a research path focused on **artificial intelligence 
+applied to healthcare**, combining a strong foundation in physiology, pharmacology, and 
+clinical research with hands-on data science and AI.
 
 ---
 
-## 📁 Projetos em destaque
+## 🧬 Background
 
-🔎 Clique nos links para explorar cada projeto:
-
-- **[IA_em_ensino](https://github.com/yohannysouzasilva-web/IA_em_ensino)**  
-
-  Projeto sobre aplicação de IA no ensino com documentação clara e exemplos de uso.
-
-
-## ✨ O que você pode encontrar aqui
-
-✔️ Projetos organizados e atualizados  
-✔️ READMEs detalhados explicando cada projeto  
-✔️ Organização e aprendizado contínuo
+- Ph.D. Candidate in Biological Sciences (Physiology and Pharmacology) — Universidade Federal de Goiás
+- M.Sc. in Biological Sciences — Universidade Federal de Goiás
+- Postgraduate studies in Clinical Research and Health Auditing
+- International research experience at Université Catholique de Louvain (Belgium)
 
 ---
 
-## 📫 Contato
+## 🛠️ Tools & Skills
 
-- 💼 GitHub: https://github.com/yohannysouzasilva-web  
-*(https://www.linkedin.com/in/yohanny-souza-silva/
-yohannysouzasilva@gmail.com)*
+- **Data & AI:** Python, pandas, scikit-learn, matplotlib, R
+- **Clinical Research:** GCP, clinical trial documentation, CRF/ICF design, data governance
+- **Statistics:** Biostatistics, epidemiology, statistical analysis
+- **Domain knowledge:** Physiology, pharmacology, primary care, health auditing
 
-Obrigado por visitar meu portfólio! 😊
+---
+
+## 📁 Featured Projects
+
+- **[Primary Care Risk Stratification with RWE & AI](https://github.com/yohannysouzasilva-web/rwe-primary-care-risk-stratification)**
+  End-to-end Real World Evidence pipeline: data quality auditing, descriptive epidemiological 
+  analysis, and an AI model for hospitalization risk stratification in Primary Care.
+
+- **[AI in Education](https://github.com/yohannysouzasilva-web/IA_em_ensino)**
+  Practical project on the ethical and pedagogical use of generative AI to design an 
+  interactive lesson plan, with transparency on AI-assisted vs. human-reviewed content.
+
+---
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yohanny-souza-silva/)
+- 📧 yohannysouzasilva@gmail.com
+
+Thanks for visiting my profile! 😊
